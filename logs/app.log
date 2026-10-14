@@ -1,0 +1,71 @@
+2026-10-14 20:24:00,811 - ERROR - Ошибка конфигурации: Укажи свой AppID в файле config.json
+2026-10-14 20:27:32,143 - ERROR - Ошибка конфигурации: Укажи свой AppID в файле config.json
+2026-10-14 20:33:05,816 - ERROR - Ошибка конфигурации: Укажи свой AppID в файле config.json
+2026-10-14 20:35:06,061 - ERROR - Ошибка конфигурации: Укажи свой AppID в файле config.json
+2026-10-14 20:38:01,413 - ERROR - Ошибка конфигурации: Укажи свой AppID в файле config.json
+2026-10-14 20:41:24,127 - ERROR - Ошибка конфигурации: Укажи настоящий AppID в указанном выше файле config.json
+2026-10-14 20:45:18,155 - ERROR - Ошибка конфигурации: Укажи настоящий AppID в указанном выше файле config.json
+2026-10-14 20:55:15,307 - ERROR - Ошибка конфигурации: AppID отсутствует или не указан
+2026-10-14 21:00:20,708 - ERROR - Ошибка конфигурации: AppID отсутствует в config.json
+2026-10-14 21:04:08,214 - ERROR - Ошибка конфигурации: В C:\wolfram_lab\config.json отсутствует поле app_id
+2026-10-14 21:05:15,153 - ERROR - Ошибка конфигурации: В C:\wolfram_lab\config.json отсутствует поле app_id
+2026-10-14 21:06:31,906 - INFO - Выполняется запрос: integrate x^2 sin^3 x dx
+2026-10-14 21:06:37,328 - INFO - Запрос выполнен успешно: integrate x^2 sin^3 x dx
+2026-10-14 21:06:37,332 - INFO - Выполняется запрос: population of Russia 2024
+2026-10-14 21:06:42,143 - INFO - Запрос выполнен успешно: population of Russia 2024
+2026-10-14 21:06:42,152 - INFO - Выполняется запрос: molar mass of H2SO4
+2026-10-14 21:06:45,722 - INFO - Запрос выполнен успешно: molar mass of H2SO4
+2026-10-14 21:06:45,727 - INFO - Выполняется запрос: kinetic energy of 5kg object at 10m/s
+2026-10-14 21:06:48,941 - INFO - Запрос выполнен успешно: kinetic energy of 5kg object at 10m/s
+2026-10-14 21:06:48,954 - INFO - Выполняется запрос: distance between Moscow and Saint Petersburg
+2026-10-14 21:06:52,954 - INFO - Запрос выполнен успешно: distance between Moscow and Saint Petersburg
+2026-10-14 21:06:52,964 - INFO - Выполняется запрос: 100 USD to RUB
+2026-10-14 21:06:57,507 - INFO - Запрос выполнен успешно: 100 USD to RUB
+2026-10-14 21:06:57,522 - INFO - Выполняется запрос: current time in Kazan
+2026-10-14 21:07:00,467 - INFO - Запрос выполнен успешно: current time in Kazan
+2026-10-14 21:07:00,481 - INFO - Выполняется запрос: distance to Mars
+2026-10-14 21:07:04,258 - INFO - Запрос выполнен успешно: distance to Mars
+2026-10-14 21:07:04,276 - INFO - Выполняется запрос: body mass index 180cm 75kg
+2026-10-14 21:07:09,482 - INFO - Запрос выполнен успешно: body mass index 180cm 75kg
+2026-10-14 21:07:09,498 - INFO - Выполняется запрос: translate hello to Russian
+2026-10-14 21:07:11,833 - INFO - Запрос выполнен успешно: translate hello to Russian
+2026-10-14 21:07:11,851 - INFO - Выполняется запрос: capital of France
+2026-10-14 21:07:17,149 - INFO - Запрос выполнен успешно: capital of France
+2026-10-14 21:07:17,168 - INFO - Выполняется запрос: square root of 144
+2026-10-14 21:07:19,616 - INFO - Запрос выполнен успешно: square root of 144
+2026-10-14 21:07:19,632 - INFO - Выполняется запрос: boiling point of water
+2026-10-14 21:07:23,614 - INFO - Запрос выполнен успешно: boiling point of water
+2026-10-14 21:07:23,640 - INFO - Выполняется запрос: chemical formula of table salt
+2026-10-14 21:07:26,487 - INFO - Запрос выполнен успешно: chemical formula of table salt
+2026-10-14 21:07:26,510 - INFO - Выполняется запрос: speed of light
+2026-10-14 21:07:30,201 - INFO - Запрос выполнен успешно: speed of light
+2026-10-14 21:18:50,007 - INFO - Выполняется запрос: integrate x^2 sin^3 x dx
+2026-10-14 21:18:55,213 - INFO - Запрос выполнен успешно: integrate x^2 sin^3 x dx
+2026-10-14 21:18:55,217 - INFO - Выполняется запрос: population of Russia 2024
+2026-10-14 21:18:59,686 - INFO - Запрос выполнен успешно: population of Russia 2024
+2026-10-14 21:18:59,693 - INFO - Выполняется запрос: molar mass of H2SO4
+2026-10-14 21:19:04,101 - INFO - Запрос выполнен успешно: molar mass of H2SO4
+2026-10-14 21:19:04,108 - INFO - Выполняется запрос: kinetic energy of 5kg object at 10m/s
+2026-10-14 21:19:07,273 - INFO - Запрос выполнен успешно: kinetic energy of 5kg object at 10m/s
+2026-10-14 21:19:07,279 - INFO - Выполняется запрос: distance between Moscow and Saint Petersburg
+2026-10-14 21:19:11,370 - INFO - Запрос выполнен успешно: distance between Moscow and Saint Petersburg
+2026-10-14 21:19:11,379 - INFO - Выполняется запрос: 100 USD to RUB
+2026-10-14 21:19:14,851 - INFO - Запрос выполнен успешно: 100 USD to RUB
+2026-10-14 21:19:14,860 - INFO - Выполняется запрос: current time in Kazan
+2026-10-14 21:19:17,819 - INFO - Запрос выполнен успешно: current time in Kazan
+2026-10-14 21:19:17,830 - INFO - Выполняется запрос: distance to Mars
+2026-10-14 21:19:21,917 - INFO - Запрос выполнен успешно: distance to Mars
+2026-10-14 21:19:21,926 - INFO - Выполняется запрос: body mass index 180cm 75kg
+2026-10-14 21:19:27,137 - INFO - Запрос выполнен успешно: body mass index 180cm 75kg
+2026-10-14 21:19:27,148 - INFO - Выполняется запрос: translate hello to Russian
+2026-10-14 21:19:29,288 - INFO - Запрос выполнен успешно: translate hello to Russian
+2026-10-14 21:19:29,298 - INFO - Выполняется запрос: capital of France
+2026-10-14 21:19:34,409 - INFO - Запрос выполнен успешно: capital of France
+2026-10-14 21:19:34,422 - INFO - Выполняется запрос: square root of 144
+2026-10-14 21:19:36,864 - INFO - Запрос выполнен успешно: square root of 144
+2026-10-14 21:19:36,878 - INFO - Выполняется запрос: boiling point of water
+2026-10-14 21:19:40,759 - INFO - Запрос выполнен успешно: boiling point of water
+2026-10-14 21:19:40,782 - INFO - Выполняется запрос: chemical formula of table salt
+2026-10-14 21:19:43,315 - INFO - Запрос выполнен успешно: chemical formula of table salt
+2026-10-14 21:19:43,335 - INFO - Выполняется запрос: speed of light
+2026-10-14 21:19:47,105 - INFO - Запрос выполнен успешно: speed of light

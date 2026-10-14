@@ -1,0 +1,612 @@
+[
+    {
+        "query": "integrate x^2 sin^3 x dx",
+        "success": true,
+        "results": [
+            {
+                "title": "Indefinite integral",
+                "text": [
+                    "integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant"
+                ]
+            },
+            {
+                "title": "Plots",
+                "text": []
+            },
+            {
+                "title": "Series expansion of the integral at x = 0",
+                "text": [
+                    "40/27 + x^6/6 - x^8/16 + O(x^9)\n(Taylor series)"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "population of Russia 2024",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "Russia | population | 2024"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "145 million people (2023 projection) (world rank: 9th) (2024 estimate)"
+                ]
+            },
+            {
+                "title": "Recent population history",
+                "text": []
+            },
+            {
+                "title": "Long-term population history",
+                "text": []
+            },
+            {
+                "title": "Demographics",
+                "text": [
+                    "population | 145 million people (2023 projection) (world rank: 9th) (2024 estimate)\npopulation density | 8.84 people/km^2 (people per square kilometer) (world rank: 222nd) (2024 estimate)"
+                ]
+            },
+            {
+                "title": "Age distribution",
+                "text": []
+            },
+            {
+                "title": "Largest cities",
+                "text": [
+                    "city | population\nMoscow, Central | 13.01 million people\nSaint Petersburg, Admiralteysky | 5.602 million people\nNovosibirsk | 1.634 million people\nYekaterinburg | 1.344 million people\nNizhny Novgorod | 1.213 million people\n(2006, 2010, 2015, 2016, 2017, 2018, 2021, 2023, and 2024 estimates)"
+                ]
+            },
+            {
+                "title": "Comparisons",
+                "text": [
+                    " ≈ ( 0.019 ≈ 1/54 ) × world population ( 7.795 billion people )",
+                    " ≈ 0.69 × current population of Brazil ( 209.3 million people )",
+                    " ≈ 1.4 × current population of Philippines ( 104.9 million people )"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "molar mass of H2SO4",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "sulfuric acid | molar mass"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "98.07 g/mol (grams per mole)"
+                ]
+            },
+            {
+                "title": "Unit conversion",
+                "text": [
+                    "0.09807 kg/mol (kilograms per mole)"
+                ]
+            },
+            {
+                "title": "Comparisons as molar mass",
+                "text": [
+                    " ≈ ( 0.14 ≈ 1/7 ) × molar mass of fullerene ( 720.642 g/mol )",
+                    " ≈ 0.51 × molar mass of caffeine ( 194.191 g/mol )",
+                    " ≈ 1.7 × molar mass of sodium chloride ( 58.443 g/mol )"
+                ]
+            },
+            {
+                "title": "Corresponding quantities",
+                "text": [
+                    "Mass of a molecule m from m = M/N_A:\n | 1.6 × 10^-22 grams\n | 1.6 × 10^-25 kg (kilograms)\n | 98 u (unified atomic mass units)\n | 98 Da (daltons)",
+                    "Relative molecular mass M_r from M_r = M_u/M:\n | 98"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "kinetic energy of 5kg object at 10m/s",
+        "success": true,
+        "results": [
+            {
+                "title": "Input information",
+                "text": [
+                    "kinetic energy | \nmass | 5 kg (kilograms)\nvelocity | 10 m/s (meters per second)"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "kinetic energy | 250 J (joules)\n= 0.06944 W h (watt hours)\n= 1.56 × 10^12 GeV (gigaelectronvolts)"
+                ]
+            },
+            {
+                "title": "Equation",
+                "text": [
+                    "K = (m v^2)/2 | \nK | kinetic energy\nm | mass\nv | velocity\n(the energy of an object due to its motion)"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "distance between Moscow and Saint Petersburg",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "distance | from | Moscow, Tsentralniy\nto | Saint Petersburg, Admiralteyskiy"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "636.2 km (kilometers)"
+                ]
+            },
+            {
+                "title": "Unit conversions",
+                "text": [
+                    "395.3 miles",
+                    "636.2 km (kilometers)",
+                    "636161 meters",
+                    "6.362 × 10^7 cm (centimeters)",
+                    "343.5 nmi (nautical miles)"
+                ]
+            },
+            {
+                "title": "Direct travel times",
+                "text": [
+                    "aircraft (885 km/h) | 43 minutes\nsound | 31 minutes\nlight in fiber | 3 ms (milliseconds)\nlight in vacuum | 2 ms (milliseconds)\n(assuming constant-speed great-circle path)"
+                ]
+            },
+            {
+                "title": "Map",
+                "text": []
+            }
+        ]
+    },
+    {
+        "query": "100 USD to RUB",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "convert $100 (US dollars) to Russian rubles"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "8432.49 ₽ (Russian rubles) (13/10/2026)"
+                ]
+            },
+            {
+                "title": "Exchange history for $100 (US dollars)",
+                "text": [
+                    "\n1-year minimum | 7084.76 ₽ (28/05/2026 | 5 months ago)\n1-year maximum | 8729.72 ₽ (02/09/2026 | 1 month ago)\n1-year average | 7883.68 ₽ (annualized volatility: 13%)"
+                ]
+            },
+            {
+                "title": "Additional currency conversions for $100 (US dollars)",
+                "text": [
+                    "EUR | €89.24 (euros)\nCNY | ￥669.21 (Chinese yuan)\nJPY | ¥15825 (Japanese yen)\nGBP | £75.64 (British pounds)\nCAD | C$142.26 (Canadian dollars)\nMXN | $1820.01 (Mexican pesos)\nGTQ | Q764.33 (Guatemala quetzales)\nCRC | ₡45515.35 (Costa Rican colones)\nHNL | L2692.73 (Honduran lempiras)\nJMD | J$15877.73 (Jamaican dollars)\nXAU | 0.02 oz (gold ounces)\nXAG | 1.70 oz (silver ounces)"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "current time in Kazan",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "current time in Kazan, Kazan'"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "9:19:17 pm MSK | Wednesday, October 14, 2026"
+                ]
+            },
+            {
+                "title": "Time until midnight (MSK)",
+                "text": [
+                    "2 hours 40 minutes 43 seconds"
+                ]
+            },
+            {
+                "title": "Clock image",
+                "text": []
+            },
+            {
+                "title": "Current Greenwich mean time",
+                "text": [
+                    "6:19:17 pm GMT | Wednesday, October 14, 2026"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "distance to Mars",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "Mars | distance from Earth"
+                ]
+            },
+            {
+                "title": "Current result",
+                "text": [
+                    "1.567 au (astronomical units)"
+                ]
+            },
+            {
+                "title": "History",
+                "text": []
+            },
+            {
+                "title": "Unit conversions",
+                "text": [
+                    "2.344 × 10^8 km (kilometers)",
+                    "2.344 × 10^11 meters",
+                    "145.7 million miles"
+                ]
+            },
+            {
+                "title": "Comparisons as distance",
+                "text": [
+                    " ≈ ( 0.018 ≈ 1/56 ) × smallest distance from the Sun to the heliosheath ( 79 to 100 au )",
+                    " ≈ 1.6 × mean Earth-Sun distance ( 1.0000010178 au )"
+                ]
+            },
+            {
+                "title": "Corresponding quantities",
+                "text": [
+                    "Light travel time t in vacuum from t = x/c:\n | 13 minutes",
+                    "Light travel time t in an optical fiber t = 1.48x/c:\n | 19 minutes",
+                    "Solar radiation pressure from P = L_☉/(c4πr^2):\n | 1.8 μPa (micropascals)\n | (assuming solar constant ≈ 1.36 kW/m^2)"
+                ]
+            },
+            {
+                "title": "Orbital properties",
+                "text": [
+                    "current distance from Earth | 1.567 au\n13.03 light minutes\naverage distance from Earth | 1.7 au\n14.1 light minutes\ncurrent distance from Sun | 1.575 au\n13.1 light minutes\napoapsis | 2.4922873 × 10^8 km\n1.66599116 au\nperiapsis | 2.06644545 × 10^8 km\n1.38133346 au\norbital period | 1.8808476 a"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "body mass index 180cm 75kg",
+        "success": true,
+        "results": [
+            {
+                "title": "Input information",
+                "text": [
+                    "body mass index | \nheight | 180 cm (centimeters)\nbody weight | 75 kg (kilograms)"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "body mass index | 23.15"
+                ]
+            },
+            {
+                "title": "Equation",
+                "text": [
+                    "BMI = W/H^2 | \nBMI | body mass index\nH | height\nW | body weight\n(based on Quetelet's formula)"
+                ]
+            },
+            {
+                "title": "International weight classification",
+                "text": [
+                    "normal range (18.5-25)"
+                ]
+            },
+            {
+                "title": "BMI prime",
+                "text": [
+                    "0.926"
+                ]
+            },
+            {
+                "title": "BMI map",
+                "text": []
+            },
+            {
+                "title": "Comparison to USA population",
+                "text": [
+                    " | 95% reference range | percentile rank | z-score | distribution\nheight | (150 to 189) cm (centimeters) | 85.2% | 1.1 | \nweight | (49 to 128) kg (kilograms) | 44.5% | -0.27 | \nbody mass index | (19 to 44) | 22.1% | -0.78 | "
+                ]
+            }
+        ]
+    },
+    {
+        "query": "translate hello to Russian",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "translate | hello | to Russian"
+                ]
+            },
+            {
+                "title": "Results",
+                "text": [
+                    "(noun) привет | приветствие\nЗдравствуйте"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "capital of France",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "France | capital city"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "Paris, Île-de-France, France"
+                ]
+            },
+            {
+                "title": "Populations",
+                "text": [
+                    "city population | 2.146 million people (country rank: 1st) (2020 estimate)\nmetro area population | 11.82 million people (Paris metro area) (2007 estimate)"
+                ]
+            },
+            {
+                "title": "Location",
+                "text": [
+                    "Île-de-France, France"
+                ]
+            },
+            {
+                "title": "Local map",
+                "text": []
+            },
+            {
+                "title": "Administrative regions",
+                "text": [
+                    "region | Ile-de-France\ncountry | France"
+                ]
+            },
+            {
+                "title": "Current local time",
+                "text": [
+                    "8:19 pm CEST | Wednesday, October 14, 2026"
+                ]
+            },
+            {
+                "title": "Current weather",
+                "text": [
+                    "15 °C | relative humidity: 63% | wind: 3 m/s"
+                ]
+            },
+            {
+                "title": "Nearby cities",
+                "text": [
+                    "Montreuil, Île-de-France | 7 km (kilometers) east | 102097 people\nAsnières-sur-Seine, Île-de-France | 7 km (kilometers) north-northwest | 85000 people\nCourbevoie, Île-de-France | 8 km (kilometers) northwest | 84974 people\nBoulogne-Billancourt, Île-de-France | 8 km (kilometers) west-southwest | 108300 people\nSaint-Denis, Île-de-France | 9 km (kilometers) north | 94700 people\nArgenteuil, Île-de-France | 12 km (kilometers) northwest | 100400 people\n(straight-line distances between city centers)"
+                ]
+            },
+            {
+                "title": "Nearby airports",
+                "text": [
+                    "Paris-Le Bourget Airport | 14 km (kilometers) north-northeast\nParis-Orly Airport | 15 km (kilometers) south\nCharles de Gaulle International Airport | 23 km (kilometers) northeast\n(straight-line distances between city center and airport)"
+                ]
+            },
+            {
+                "title": "Notable company headquarters",
+                "text": [
+                    "Sanofi | 87994 employees (2024) | $50.51 billion per year (2023)\nConstellium | 12000 employees (2024) | $7.872 billion per year (2023)\nCriteo | 3563 employees (2024) | $1.949 billion per year (2023)\nNanobiotix | 102 employees (2024) | $32.69 million per year (2023)\nCellectis | 235 employees (2024) | $9.193 million per year (2023)\nAbivax | 40 employees (2024) | $0 per year (2023)"
+                ]
+            },
+            {
+                "title": "Geographic properties",
+                "text": [
+                    "elevation | 45 m\narea | 105.4 km^2\npopulation density | 20360 people/km^2"
+                ]
+            },
+            {
+                "title": "Nearby feature",
+                "text": [
+                    "nuclear power site | Nogent | 95 km (kilometers) east-southeast\n(straight-line distances between city center and feature coordinates)"
+                ]
+            },
+            {
+                "title": "Nearest sea",
+                "text": [
+                    "English Channel (148 km (kilometers) north-northwest) \n(straight-line distance between city center and shore)"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "square root of 144",
+        "success": true,
+        "results": [
+            {
+                "title": "Input",
+                "text": [
+                    "sqrt(144)"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "12"
+                ]
+            },
+            {
+                "title": "Number name",
+                "text": [
+                    "twelve"
+                ]
+            },
+            {
+                "title": "Number line",
+                "text": []
+            },
+            {
+                "title": "Visual representation",
+                "text": [
+                    "* * * * * * * * * * * *"
+                ]
+            },
+            {
+                "title": "All 2nd roots of 144",
+                "text": [
+                    "12 e^0 = 12 (real, principal root)",
+                    "12 e^(i π) = -12 (real root)"
+                ]
+            },
+            {
+                "title": "Plot of all roots in the complex plane",
+                "text": []
+            }
+        ]
+    },
+    {
+        "query": "boiling point of water",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "water | boiling point"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "99.61 °C (degrees Celsius) (measured at 100 kPa)"
+                ]
+            },
+            {
+                "title": "Unit conversions",
+                "text": [
+                    "372.76 K (kelvins)",
+                    "211.3 °F (degrees Fahrenheit)",
+                    "671 °R (degrees Rankine)",
+                    "79.69 °Ré (degrees Réaumur)",
+                    "59.8 °Rø (degrees Rømer)"
+                ]
+            },
+            {
+                "title": "Comparisons as temperature",
+                "text": [
+                    "27.4 °C below hottest temperature of a Concorde nose tip (127 °C)",
+                    "80 °C above conventional US room temperature (68 °F)",
+                    "79.61 °C above temperature at standard temperature and pressure using the National Institute of Standards and Technology convention (20 °C)"
+                ]
+            },
+            {
+                "title": "Corresponding quantities",
+                "text": [
+                    "Thermodynamic energy E from E = kT:\n | 32 meV (millielectronvolts)",
+                    "Blackbody energy flux Φ from Φ = σT^4:\n | 1095 W/m^2 (watts per square meter)",
+                    "Approximate luminous exitance from a planar blackbody radiator perpendicular to its surface:\n | 8.6 × 10^-16 lx (lux)"
+                ]
+            },
+            {
+                "title": "Nearest corresponding gas marks",
+                "text": [
+                    " | temperature | usage\nstufe 1/2 | 100 °C | Germany\n(actual measurements may vary)"
+                ]
+            }
+        ]
+    },
+    {
+        "query": "chemical formula of table salt",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "sodium chloride | formula"
+                ]
+            },
+            {
+                "title": "Result",
+                "text": [
+                    "NaCl"
+                ]
+            },
+            {
+                "title": "Elemental composition",
+                "text": [
+                    " | number\nof atoms | mole\npercent | mass\npercent\n Cl (chlorine) | 1 | 50.0% | 60.66%\n Na (sodium) | 1 | 50.0% | 39.34%"
+                ]
+            },
+            {
+                "title": "Mass fraction pie chart",
+                "text": []
+            }
+        ]
+    },
+    {
+        "query": "speed of light",
+        "success": true,
+        "results": [
+            {
+                "title": "Input interpretation",
+                "text": [
+                    "c (speed of light)"
+                ]
+            },
+            {
+                "title": "Value",
+                "text": [
+                    "2.998 × 10^8 m/s (meters per second)",
+                    "299792 km/s (kilometers per second)",
+                    "186282 mi/s (miles per second)",
+                    "6.706 × 10^8 mph (miles per hour)"
+                ]
+            },
+            {
+                "title": "Comparison as speed",
+                "text": [
+                    " ≈ 2.4 × speed of light in diamond ( ≈ 1.24 × 10^8 m/s )"
+                ]
+            },
+            {
+                "title": "Interpretations",
+                "text": [
+                    "speed"
+                ]
+            },
+            {
+                "title": "Basic unit dimensions",
+                "text": [
+                    "[length] [time]^(-1)"
+                ]
+            },
+            {
+                "title": "Corresponding quantities",
+                "text": [
+                    "Time to travel 1 meter from t = d/v:\n | 3.3 ns (nanoseconds)",
+                    "Time to travel 1 kilometer from t = d/v:\n | 3.3 μs (microseconds)",
+                    "Slowness from s = 1/v:\n | 3.3 × 10^-9 s/m (seconds per meter)"
+                ]
+            }
+        ]
+    }
+]
